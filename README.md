@@ -1,6 +1,6 @@
 # Emerson Javier Davenheimer
 
-<img src="foto-perfil.jpg" alt="Mi foto" width="200">
+<img src="foto-perfil.png" alt="Mi foto" width="200">
 
 ## 📌 Información  
 - **Legajo:** 1632322  
