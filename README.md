@@ -8,7 +8,10 @@
   
 
 ## 📌 Sobre mí  
-Nací en Misiones. Me gusta organizar todo y la educación.
+Tengo 27 años. Nací en Misiones. Me gusta organizar todo, cocinar y enseñar.
+
+## 📌 ¿Qué me motiva de la carrera?
+Me gusta la versatilidad que ofrece, desde la programación, pasando por lo administativo, hasta lo educativo.
 
 
 ## 🌎 Algo importante del mundo hoy  
